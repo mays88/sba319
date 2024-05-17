@@ -1,4 +1,3 @@
-// import { users } from "../data/users.js";
 import db from "../db/conn.js";
 import { ObjectId } from "mongodb";
 
